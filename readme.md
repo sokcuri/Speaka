@@ -1,7 +1,8 @@
-## Speaka
+## Speaka by sokcuri
 원클릭으로 간단하게 스피커와 헤드셋을 전환하세요! 윈도우 10 아이콘이 내장되어 작업표시줄에 등록해서 쉽고 편리하게 사용할 수 있습니다
 
-[스피카 다운받으러 가기](https://github.com/sokcuri/speaka/releases)
+* [스피카 리포지토리 방문](https://github.com/sokcuri/Speaka)
+* [스피카 다운받으러 가기](https://github.com/sokcuri/speaka/releases)
 
 * 압축 파일을 풀고 해당하는 이름의 exe를 실행시키면 오디오가 해당 폼팩터로 전환됩니다
 * 스피커로 전환하고 싶으면 speakers.exe를 실행하고, 헤드셋으로 전환하고 싶으면 headset.exe를 실행하세요!
